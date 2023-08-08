@@ -1,0 +1,4 @@
+[ 2023-08-08 10:57:05,043] 29 root - INFO - initiated data ingestion
+[ 2023-08-08 10:57:05,045] 39 root - INFO - downloading data
+[ 2023-08-08 10:57:05,045] 55 root - INFO - moving data to artifacts folder
+[ 2023-08-08 10:57:05,045] 61 root - INFO - deleting temporary folder
